@@ -33,7 +33,7 @@ function App() {
   };
 
   return (
-    <>
+    <main>
       {valid ? <Thankyou /> :
         <div className='news-letter'>
           <section className='col-content'>
@@ -58,7 +58,7 @@ function App() {
         </div>
       }
       
-    </>
+    </main>
   );
 }
 
