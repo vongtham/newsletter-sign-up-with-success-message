@@ -20,7 +20,7 @@ body {
   display: grid;
   place-content: center;
   min-height: 100vh;
-  background-color: var(--clr-dark-grey);
+  background-color: var(--clr-charcoal-grey);
 }
 
 img {
